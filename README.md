@@ -13,7 +13,7 @@ Este repositorio aloja la **ingeniería y validación** del sistema Vinisys. Ant
 ## 🛠️ Tecnologías (Simulación)
 * **Software:** Autodesk Tinkercad.
 * **Hardware Simulado:** Arduino Uno (Atmega328P).
-* **Sensores:** Temperatura (TMP36), Distancia (Ultrasonido), Gas (Simulado).
+* **Sensores:** Temperatura (TMP36), Distancia (Ultrasonido), Gas (Simulado), Humedad (Simulado).
 * **Actuadores:** Motor DC (Ventilación automática), Pantalla LCD 16x2.
 
 ## ⚡ Planos Esquemáticos
